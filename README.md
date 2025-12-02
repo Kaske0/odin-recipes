@@ -1,1 +1,1 @@
-In this project i will be making a recipes website with the use og html and css.
+In this project i will be making a recipes website with the use of html and css.
